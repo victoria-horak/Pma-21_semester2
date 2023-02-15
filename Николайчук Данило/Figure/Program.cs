@@ -1,5 +1,4 @@
-﻿using Figure;
-using System;
+﻿using System;
 
 namespace figure
 {
