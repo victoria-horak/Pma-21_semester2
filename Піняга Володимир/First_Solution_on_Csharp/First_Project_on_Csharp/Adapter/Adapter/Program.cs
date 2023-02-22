@@ -50,8 +50,8 @@ namespace Adapter
     {
         static void Main(string[] args)
         {
-            IScales EScales = new EuropeanScales(55.0f);
-            IScales bScales = new AdapterForBritishScales(55.0f);
+            IScales EScales = new EuropeanScales(30.0f);
+            IScales bScales = new AdapterForBritishScales(30.0f);
 
             Console.WriteLine(EScales.GetWeight());
             Console.WriteLine(bScales.GetWeight());
