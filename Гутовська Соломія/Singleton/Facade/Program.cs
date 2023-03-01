@@ -13,7 +13,7 @@ namespace Facade
             var restaurant = new RestaurantFacade();
             var client = new Client(restaurant);
 
-            client.OrderMeal("Caesar salad", "Chocolate cake", "Water");
+            client.OrderMeal("Chocolate cake", "Water");
         }
     }
 }
