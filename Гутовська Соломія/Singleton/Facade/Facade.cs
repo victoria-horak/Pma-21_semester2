@@ -1,46 +1,55 @@
-namespace Facade{
-        public class RestaurantFacade
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+
+
+namespace Facade
+{
+    public class RestaurantFacade
+    {
+        private Dessert dessert;
+        private Beverage beverage;
+        private Pizza pizza;
+
+        public RestaurantFacade()
         {
-            private Dessert dessert;
-            private Beverage beverage;
-            private Pizza pizza;
+            dessert = new Dessert();
+            beverage = new Beverage();
+            pizza = new Pizza();
+        }
 
-            public RestaurantFacade()
+        public void OrderMeal(string dessertName, string beverageName, string pizzaName)
+        {
+            dessert.Order(dessertName);
+            beverage.Order(beverageName);
+            pizza.Order(pizzaName);
+        }
+
+        private class Dessert
+        {
+            public void Order(string name)
             {
-                dessert = new Dessert();
-                beverage = new Beverage();
-                pizza = new Pizza();
+                Console.WriteLine($"Ordering dessert {name}.");
             }
+        }
 
-            public void OrderMeal(string dessertName, string beverageName, string pizzaName)
+        private class Beverage
+        {
+            public void Order(string name)
             {
-                dessert.Order(dessertName);
-                beverage.Order(beverageName);
-                pizza.Order(pizzaName);
+                Console.WriteLine($"Ordering beverage {name}.");
             }
+        }
 
-            private class Dessert
+        private class Pizza
+        {
+            public void Order(string name)
             {
-                public void Order(string name)
-                {
-                    Console.WriteLine($"Ordering dessert {name}.");
-                }
-            }
-
-            private class Beverage
-            {
-                public void Order(string name)
-                {
-                    Console.WriteLine($"Ordering beverage {name}.");
-                }
-            }
-
-            private class Pizza
-            {
-                public void Order(string name)
-                {
-                    Console.WriteLine($"Ordering pizza {name}.");
-                }
+                Console.WriteLine($"Ordering pizza {name}.");
             }
         }
     }
+}
