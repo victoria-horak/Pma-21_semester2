@@ -1,3 +1,4 @@
+using Facade.Facade;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -8,17 +9,16 @@ namespace Facade
 {
     public class Client
     {
-        private IRestaurantFacade _restaurant;
+        private RestaurantFacade _restaurant;
 
-        public Client(IRestaurantFacade restaurant)
+        public Client()
         {
-            _restaurant = restaurant;
+            _restaurant = new RestaurantFacade();
         }
 
-        public void OrderMeal( string dessertName, string beverageName)
+        public void OrderMeal(string dessertName, string beverageName, string pizzaName)
         {
-            _restaurant.OrderDessert(dessertName);
-            _restaurant.OrderBeverage(beverageName);
+            _restaurant.OrderMeal(dessertName, beverageName, pizzaName);
         }
     }
 }
