@@ -1,0 +1,37 @@
+[
+  {
+    "identificatorId": "69852643",
+    "objectId": "1234567890",
+    "effectimeFrom": "2017-12-07T02:25:00.073876+02:00",
+    "effectiveTo": "2018-09-07T03:25:00.073876+03:00",
+    "type": "movie"
+  },
+  {
+    "identificatorId": "60483857",
+    "objectId": "1756376260",
+    "effectimeFrom": "2017-11-07T02:25:00.073876+02:00",
+    "effectiveTo": "2018-11-07T02:25:00.073876+02:00",
+    "type": "video"
+  },
+  {
+    "identificatorId": "60483857",
+    "objectId": "1756376260",
+    "effectimeFrom": "2014-11-07T02:25:00.073876+02:00",
+    "effectiveTo": "2019-11-07T02:25:00.073876+02:00",
+    "type": "video"
+  },
+  {
+    "identificatorId": "86746375",
+    "objectId": "4567890432",
+    "effectimeFrom": "2016-11-07T02:25:00.073876+02:00",
+    "effectiveTo": "2020-11-07T02:25:00.073876+02:00",
+    "type": "video"
+  },
+  {
+    "identificatorId": "67543765",
+    "objectId": "6543987612",
+    "effectimeFrom": "2017-11-07T02:25:00.073876+02:00",
+    "effectiveTo": "2019-11-07T02:25:00.073876+02:00",
+    "type": "suffer"
+  }
+]

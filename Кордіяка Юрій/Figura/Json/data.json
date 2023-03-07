@@ -1,0 +1,215 @@
+
+
+
+[
+  {
+    "identificatorId": "60483857",
+    "dataItem": {
+      "objectId": "1756376260",
+      "effectimeFrom": "2021-11-07T00:25:00.073876Z",
+      "effectiveTo": "2024-11-07T00:25:00.073876Z",
+      "data1": "2",
+      "data2": "5",
+      "data3": "suffer"
+    },
+    "info": {
+      "expired": "True",
+      "price": "20",
+      "currentAt": "2018-11-20T00:25:00.073876Z",
+      "currentFrom": "2018-11-07T00:25:00.073876Z",
+      "type": "video",
+      "data4": "true",
+      "data5": "false",
+      "data6": "17"
+    }
+  },
+  {
+    "identificatorId": "69852643",
+    "dataItem": {
+      "objectId": "1234567890",
+      "effectimeFrom": "2017-12-07T00:25:00.073876Z",
+      "effectiveTo": "2018-09-07T00:25:00.073876Z",
+      "data1": "2",
+      "data2": "5",
+      "data3": "suffer"
+    },
+    "info": {
+      "expired": "False",
+      "price": "202",
+      "currentAt": "2014-11-20T00:25:00.073876Z",
+      "currentFrom": "2017-11-07T00:25:00.073876Z",
+      "type": "movie",
+      "data4": "true",
+      "data5": "false",
+      "data6": "17"
+    }
+  },
+  {
+    "identificatorId": "60483857",
+    "dataItem": {
+      "objectId": "1756376260",
+      "effectimeFrom": "2017-11-07T00:25:00.073876Z",
+      "effectiveTo": "2018-11-07T00:25:00.073876Z",
+      "data1": "2",
+      "data2": "5",
+      "data3": "suffer"
+    },
+    "info": {
+      "expired": "True",
+      "price": "20",
+      "currentAt": "2018-11-20T00:25:00.073876Z",
+      "currentFrom": "2018-11-07T00:25:00.073876Z",
+      "type": "video",
+      "data4": "true",
+      "data5": "false",
+      "data6": "17"
+    }
+  },
+  {
+    "identificatorId": "60483857",
+    "dataItem": {
+      "objectId": "1756376260",
+      "effectimeFrom": "2014-11-07T00:25:00.073876Z",
+      "effectiveTo": "2019-11-07T00:25:00.073876Z",
+      "data1": "2",
+      "data2": "5",
+      "data3": "suffer"
+    },
+    "info": {
+      "expired": "True",
+      "price": "20",
+      "currentAt": "2018-11-20T00:25:00.073876Z",
+      "currentFrom": "2018-11-07T00:25:00.073876Z",
+      "type": "video",
+      "data4": "true",
+      "data5": "false",
+      "data6": "17"
+    }
+  },
+  {
+    "identificatorId": "58676595",
+    "dataItem": {
+      "objectId": "1749673554",
+      "effectimeFrom": "2014-11-07T00:25:00.073876Z",
+      "effectiveTo": "2013-11-07T00:25:00.073876Z",
+      "data1": "2",
+      "data2": "5",
+      "data3": "suffer"
+    },
+    "info": {
+      "expired": "False",
+      "price": "2340",
+      "currentAt": "2019-11-20T00:25:00.073876Z",
+      "currentFrom": "2015-09-07T00:25:00.073876Z",
+      "type": "movie",
+      "data4": "true",
+      "data5": "false",
+      "data6": "17"
+    }
+  },
+  {
+    "identificatorId": "97837726",
+    "dataItem": {
+      "objectId": "3476983476",
+      "effectimeFrom": "2020-11-07T00:25:00.073876Z",
+      "effectiveTo": "2021-11-07T00:25:00.073876Z",
+      "data1": "2",
+      "data2": "5",
+      "data3": "suffer"
+    },
+    "info": {
+      "expired": "True",
+      "price": "205758",
+      "currentAt": "2018-06-20T00:25:00.073876Z",
+      "currentFrom": "2017-12-07T00:25:00.073876Z",
+      "type": "video",
+      "data4": "true",
+      "data5": "false",
+      "data6": "17"
+    }
+  },
+  {
+    "identificatorId": "86746375",
+    "dataItem": {
+      "objectId": "4567890432",
+      "effectimeFrom": "2016-11-07T00:25:00.073876Z",
+      "effectiveTo": "2020-11-07T00:25:00.073876Z",
+      "data1": "2",
+      "data2": "5",
+      "data3": "suffer"
+    },
+    "info": {
+      "expired": "true",
+      "price": "54620",
+      "currentAt": "2018-11-20T00:25:00.073876Z",
+      "currentFrom": "2018-11-07T00:25:00.073876Z",
+      "type": "video",
+      "data4": "true",
+      "data5": "false",
+      "data6": "17"
+    }
+  },
+  {
+    "identificatorId": "12764695",
+    "dataItem": {
+      "objectId": "1767365744",
+      "effectimeFrom": "2018-12-07T00:25:00.073876Z",
+      "effectiveTo": "2019-02-07T00:25:00.073876Z",
+      "data1": "2",
+      "data2": "5",
+      "data3": "suffer"
+    },
+    "info": {
+      "expired": "true",
+      "price": "220",
+      "currentAt": "2020-11-20T00:25:00.073876Z",
+      "currentFrom": "2019-11-07T00:25:00.073876Z",
+      "type": "video",
+      "data4": "true",
+      "data5": "false",
+      "data6": "17"
+    }
+  },
+  {
+    "identificatorId": "67543765",
+    "dataItem": {
+      "objectId": "6543987612",
+      "effectimeFrom": "2017-11-07T00:25:00.073876Z",
+      "effectiveTo": "2019-11-07T00:25:00.073876Z",
+      "data1": "2",
+      "data2": "5",
+      "data3": "suffer"
+    },
+    "info": {
+      "expired": "True",
+      "price": "20",
+      "currentAt": "2012-11-20T00:25:00.073876Z",
+      "currentFrom": "2011-11-07T00:25:00.073876Z",
+      "type": "suffer",
+      "data4": "true",
+      "data5": "false",
+      "data6": "17"
+    }
+  },
+  {
+    "identificatorId": "56846365",
+    "dataItem": {
+      "objectId": "2123567654",
+      "effectimeFrom": "2018-11-07T00:25:00.073876Z",
+      "effectiveTo": "2022-11-07T00:25:00.073876Z",
+      "data1": "2",
+      "data2": "5",
+      "data3": "suffer"
+    },
+    "info": {
+      "expired": "True",
+      "price": "20",
+      "currentAt": "2017-11-20T00:25:00.073876Z",
+      "currentFrom": "2015-11-07T00:25:00.073876Z",
+      "type": "video",
+      "data4": "true",
+      "data5": "false",
+      "data6": "17"
+    }
+  }
+]
