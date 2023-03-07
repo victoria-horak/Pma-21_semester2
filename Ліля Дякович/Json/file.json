@@ -1,0 +1,155 @@
+﻿[
+  {
+    "identificatorId": 98757643,
+    "dataItem": {
+      "objectId": 3467521346,
+      "effectimeFrom": "2018-11-07T00:25:00.073876Z",
+      "effectiveTo": "2019-12-07T00:25:00.073876Z",
+      "name": "firstObject"
+    },
+    "info": {
+      "currentAt": "some_date_in_string",
+      "CurrentFrom": "some_date_in_string",
+      "type": "audio",
+      "color": "red",
+      "heigth": "100px",
+      "size": "100mb"
+    }
+  },
+  {
+    "identificatorId": 35742653,
+    "dataItem": {
+      "objectId": "1234567890",
+      "effectimeFrom": "2020-09-07T00:20:00.073876Z",
+      "effectiveTo": "2023-12-07T00:20:00.073876Z",
+      "name": "secondObject"
+    },
+    "info": {
+      "currentAt": "some_date_in_string",
+      "CurrentFrom": "some_date_in_string",
+      "type": "image",
+      "color": "blue",
+      "heigth": "200px",
+      "size": "100kb"
+    }
+  },
+  {
+    "identificatorId": 67894367,
+    "dataItem": {
+      "objectId": 5425793757,
+      "effectimeFrom": "2015-07-07T00:20:00.073876Z",
+      "effectiveTo": "2020-10-07T00:20:00.073876Z",
+      "name": "thirdObject"
+    },
+    "info": {
+      "currentAt": "some_date_in_string",
+      "CurrentFrom": "some_date_in_string",
+      "type": "image",
+      "color": "green",
+      "heigth": "100px",
+      "size": "150mb"
+    }
+  },
+  {
+    "identificatorId": 34757643,
+    "dataItem": {
+      "objectId": 6467521346,
+      "effectimeFrom": "2013-11-07T00:15:00.073876Z",
+      "effectiveTo": "2029-12-07T00:15:00.073876Z",
+      "name": "fourthObject"
+    },
+    "info": {
+      "currentAt": "2013-11-07T00:15:00.073876Z",
+      "CurrentFrom": "2029-12-07T00:15:00.073876Z",
+      "type": "image",
+      "color": "red",
+      "heigth": "100px",
+      "size": "100mb"
+    }
+  },
+  {
+    "identificatorId": 38942653,
+    "dataItem": {
+      "objectId": "1289567890",
+      "effectimeFrom": "2010-09-07T00:20:00.073876Z",
+      "effectiveTo": "2023-12-07T00:20:00.073876Z",
+      "name": "fifthObject"
+    },
+    "info": {
+      "currentAt": "2013-12-07T00:20:00.073876Z",
+      "CurrentFrom": "2023-12-07T00:20:00.073876Z",
+      "type": "image",
+      "color": "blue",
+      "heigth": "200px",
+      "size": "100kb"
+    }
+  },
+  {
+    "identificatorId": 67895832,
+    "dataItem": {
+      "objectId": 5425793537,
+      "effectimeFrom": "2016-07-07T00:20:00.073876Z",
+      "effectiveTo": "2017-10-07T00:20:00.073876Z",
+      "name": "sixthObject"
+    },
+    "info": {
+      "currentAt": "2016-10-07T00:20:00.073876Z",
+      "CurrentFrom": "2017-10-07T00:20:00.073876Z",
+      "type": "image",
+      "color": "red",
+      "heigth": "200px",
+      "size": "150mb"
+    }
+  },
+  {
+    "identificatorId": 23757643,
+    "dataItem": {
+      "objectId": 3467521346,
+      "effectimeFrom": "2018-11-07T00:25:00.073876Z",
+      "effectiveTo": "2019-12-07T00:25:00.073876Z",
+      "name": "seventhObject"
+    },
+    "info": {
+      "currentAt": "some_date_in_string",
+      "CurrentFrom": "some_date_in_string",
+      "type": "audio",
+      "color": "red",
+      "heigth": "100px",
+      "size": "100mb"
+    }
+  },
+  {
+    "identificatorId": 55742653,
+    "dataItem": {
+      "objectId": "1234567890",
+      "effectimeFrom": "2012-09-07T00:20:00.073876Z",
+      "effectiveTo": "2014-12-07T00:20:00.073876Z",
+      "name": "eigththObject"
+    },
+    "info": {
+      "currentAt": "some_date_in_string",
+      "CurrentFrom": "some_date_in_string",
+      "type": "image",
+      "color": "blue",
+      "heigth": "200px",
+      "size": "100kb"
+    }
+  },
+  {
+    "identificatorId": 67865237,
+    "dataItem": {
+      "objectId": 5343493757,
+      "effectimeFrom": "2016-07-07T00:20:00.073876Z",
+      "effectiveTo": "2021-10-07T00:20:00.073876Z",
+      "name": "ninethObject"
+    },
+    "info": {
+      "currentAt": "2015-07-07T00:20:00.073876Z",
+      "CurrentFrom": "2020-10-07T00:20:00.073876Z",
+      "type": "video",
+      "color": "green",
+      "heigth": "10px",
+      "size": "50mb"
+    }
+  }
+]

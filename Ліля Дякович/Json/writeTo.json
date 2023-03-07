@@ -1,0 +1,30 @@
+[
+  {
+    "identificatorId": 35742653,
+    "objectId": "1234567890",
+    "effectimeFrom": "2020-09-07T03:20:00.073876+03:00",
+    "effectiveTo": "2023-12-07T02:20:00.073876+02:00",
+    "type": "image"
+  },
+  {
+    "identificatorId": 34757643,
+    "objectId": "6467521346",
+    "effectimeFrom": "2013-11-07T02:15:00.073876+02:00",
+    "effectiveTo": "2029-12-07T02:15:00.073876+02:00",
+    "type": "image"
+  },
+  {
+    "identificatorId": 38942653,
+    "objectId": "1289567890",
+    "effectimeFrom": "2010-09-07T03:20:00.073876+03:00",
+    "effectiveTo": "2023-12-07T02:20:00.073876+02:00",
+    "type": "image"
+  },
+  {
+    "identificatorId": 67865237,
+    "objectId": "5343493757",
+    "effectimeFrom": "2016-07-07T03:20:00.073876+03:00",
+    "effectiveTo": "2021-10-07T03:20:00.073876+03:00",
+    "type": "video"
+  }
+]
