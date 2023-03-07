@@ -1,0 +1,27 @@
+[
+  {
+    "identificatorId": "60483857",
+    "effectiveTo": "2019-07-11T00:25:00",
+    "effectiveFrom": "2014-07-11T00:25:00"
+  },
+  {
+    "identificatorId": "86746375",
+    "effectiveTo": "2020-07-11T00:25:00",
+    "effectiveFrom": "2016-07-11T00:25:00"
+  },
+  {
+    "identificatorId": "12764695",
+    "effectiveTo": "2019-07-02T00:25:00",
+    "effectiveFrom": "2018-07-12T00:25:00"
+  },
+  {
+    "identificatorId": "67543765",
+    "effectiveTo": "2019-07-11T00:25:00",
+    "effectiveFrom": "2017-07-11T00:25:00"
+  },
+  {
+    "identificatorId": "56846365",
+    "effectiveTo": "2022-07-11T00:25:00",
+    "effectiveFrom": "2018-07-11T00:25:00"
+  }
+]
