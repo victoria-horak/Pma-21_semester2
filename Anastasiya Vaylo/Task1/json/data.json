@@ -1,0 +1,39 @@
+[
+  {
+    "identificatorId": 0,
+    "dataItem": {
+      "objectId": 123,
+      "effectiveFrom": "2021-03-01T12:00:00.000Z",
+      "effectiveTo": "2021-03-09T12:00:00.000Z",
+      "publishedBy": "State Aviation Administration of Ukraine",
+      "reviewedBy": "Dmytro Shevchenko",
+      "reviewedOn": "2021-02-20T12:00:00.000Z"
+    },
+    "info": {
+      "type": "ProhibitedEntry",
+      "minFlightLevel": 0,
+      "maxFlightLevel": 60,
+      "coordinates": [
+        {
+          "lat": 47.807701,
+          "lon": 29.504457
+        },
+        {
+          "lat": 47.807701,
+          "lon": 29.899964
+        },
+        {
+          "lat": 47.199125,
+          "lon": 30.031800
+        },
+        {
+          "lat": 47.422593,
+          "lon": 29.526429
+        }
+      ],
+      "reason": "Parachute school exercises"
+    }
+  }
+
+
+]
