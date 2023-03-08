@@ -1,0 +1,34 @@
+[
+  {
+    "identificatorId": "some_identificator_8_number",
+    "dataItem": {
+      "objectId": "some_10_number_id",
+      "effectimeFrom": "some_date_in_string",
+      "effectiveTo": "some_date_in_string",
+      "some useless stuff": "add 3 string fields"
+    },
+    "info": {
+      "Two useless fielsd": "some Strings",
+      "currentAt": "some_date_in_string",
+      "CurrentFrom": "some_date_in_string",
+      "type": "some_ string",
+      "3 more useless fields"
+    }
+  },
+  {
+    "identificatorId": "some_identificator_8_number",
+    "dataItem": {
+      "objectId": "some_10_number_id",
+      "effectimeFrom": "some_date_in_string",
+      "effectiveTo": "some_date_in_string",
+      "some useless stuff": "add 3 string fields"
+    },
+    "info": {
+      "Two useless fielsd": "some Strings",
+      "currentAt": "some_date_in_string",
+      "CurrentFrom": "some_date_in_string",
+      "type": "some_ string",
+      "3 more useless fields"
+    }
+  }
+]

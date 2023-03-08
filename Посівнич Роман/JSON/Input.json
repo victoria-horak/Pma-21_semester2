@@ -1,0 +1,582 @@
+[
+  {
+    "identificatorId": 1,
+    "dataItem": {
+      "objectId": 2,
+      "effectimeFrom": "2019-03-07T22:46:23.0228296Z",
+      "effectiveTo": "2027-03-07T22:46:23.0228296Z",
+      "someUselessStuff": "useless stuff 1:4",
+      "someUsefullStuff": "usefull stuff 1:4",
+      "stuff": "some stuff 1:4"
+    },
+    "info": {
+      "twoUselessFields": "useless field 1:4",
+      "currentFrom": "2015-03-07T22:46:23.0228296Z",
+      "currentAt": "2031-03-07T22:46:23.0228296Z",
+      "type": "type field 1:4",
+      "subInfo1": "sub info1 1:4",
+      "subInfo2": "sub info2 field 1:4",
+      "subInfo3": "sub info3 field 1:4"
+    }
+  },
+  {
+    "identificatorId": 2,
+    "dataItem": {
+      "objectId": 3,
+      "effectimeFrom": "2022-03-07T22:46:23.0228347Z",
+      "effectiveTo": "2024-03-07T22:46:23.0228347Z",
+      "someUselessStuff": "useless stuff 2:1",
+      "someUsefullStuff": "usefull stuff 2:1",
+      "stuff": "some stuff 2:1"
+    },
+    "info": {
+      "twoUselessFields": "useless field 2:1",
+      "currentFrom": "2021-03-07T22:46:23.0228347Z",
+      "currentAt": "2025-03-07T22:46:23.0228347Z",
+      "type": "type field 2:1",
+      "subInfo1": "sub info1 2:1",
+      "subInfo2": "sub info2 field 2:1",
+      "subInfo3": "sub info3 field 2:1"
+    }
+  },
+  {
+    "identificatorId": 3,
+    "dataItem": {
+      "objectId": 4,
+      "effectimeFrom": "2016-03-07T22:46:23.0228368Z",
+      "effectiveTo": "2030-03-07T22:46:23.0228368Z",
+      "someUselessStuff": "useless stuff 3:7",
+      "someUsefullStuff": "usefull stuff 3:7",
+      "stuff": "some stuff 3:7"
+    },
+    "info": {
+      "twoUselessFields": "useless field 3:7",
+      "currentFrom": "2009-03-07T22:46:23.0228368Z",
+      "currentAt": "2037-03-07T22:46:23.0228368Z",
+      "type": "type field 3:7",
+      "subInfo1": "sub info1 3:7",
+      "subInfo2": "sub info2 field 3:7",
+      "subInfo3": "sub info3 field 3:7"
+    }
+  },
+  {
+    "identificatorId": 4,
+    "dataItem": {
+      "objectId": 5,
+      "effectimeFrom": "2018-03-07T22:46:23.0228539Z",
+      "effectiveTo": "2028-03-07T22:46:23.0228539Z",
+      "someUselessStuff": "useless stuff 4:5",
+      "someUsefullStuff": "usefull stuff 4:5",
+      "stuff": "some stuff 4:5"
+    },
+    "info": {
+      "twoUselessFields": "useless field 4:5",
+      "currentFrom": "2013-03-07T22:46:23.0228539Z",
+      "currentAt": "2033-03-07T22:46:23.0228539Z",
+      "type": "type field 4:5",
+      "subInfo1": "sub info1 4:5",
+      "subInfo2": "sub info2 field 4:5",
+      "subInfo3": "sub info3 field 4:5"
+    }
+  },
+  {
+    "identificatorId": 5,
+    "dataItem": {
+      "objectId": 6,
+      "effectimeFrom": "2019-03-07T22:46:23.0228569Z",
+      "effectiveTo": "2027-03-07T22:46:23.0228569Z",
+      "someUselessStuff": "useless stuff 5:4",
+      "someUsefullStuff": "usefull stuff 5:4",
+      "stuff": "some stuff 5:4"
+    },
+    "info": {
+      "twoUselessFields": "useless field 5:4",
+      "currentFrom": "2015-03-07T22:46:23.0228569Z",
+      "currentAt": "2031-03-07T22:46:23.0228569Z",
+      "type": "type field 5:4",
+      "subInfo1": "sub info1 5:4",
+      "subInfo2": "sub info2 field 5:4",
+      "subInfo3": "sub info3 field 5:4"
+    }
+  },
+  {
+    "identificatorId": 6,
+    "dataItem": {
+      "objectId": 7,
+      "effectimeFrom": "2014-03-07T22:46:23.0228586Z",
+      "effectiveTo": "2032-03-07T22:46:23.0228586Z",
+      "someUselessStuff": "useless stuff 6:9",
+      "someUsefullStuff": "usefull stuff 6:9",
+      "stuff": "some stuff 6:9"
+    },
+    "info": {
+      "twoUselessFields": "useless field 6:9",
+      "currentFrom": "2005-03-07T22:46:23.0228586Z",
+      "currentAt": "2041-03-07T22:46:23.0228586Z",
+      "type": "type field 6:9",
+      "subInfo1": "sub info1 6:9",
+      "subInfo2": "sub info2 field 6:9",
+      "subInfo3": "sub info3 field 6:9"
+    }
+  },
+  {
+    "identificatorId": 7,
+    "dataItem": {
+      "objectId": 8,
+      "effectimeFrom": "2016-03-07T22:46:23.0228604Z",
+      "effectiveTo": "2030-03-07T22:46:23.0228604Z",
+      "someUselessStuff": "useless stuff 7:7",
+      "someUsefullStuff": "usefull stuff 7:7",
+      "stuff": "some stuff 7:7"
+    },
+    "info": {
+      "twoUselessFields": "useless field 7:7",
+      "currentFrom": "2009-03-07T22:46:23.0228604Z",
+      "currentAt": "2037-03-07T22:46:23.0228604Z",
+      "type": "type field 7:7",
+      "subInfo1": "sub info1 7:7",
+      "subInfo2": "sub info2 field 7:7",
+      "subInfo3": "sub info3 field 7:7"
+    }
+  },
+  {
+    "identificatorId": 8,
+    "dataItem": {
+      "objectId": 9,
+      "effectimeFrom": "2017-03-07T22:46:23.0228627Z",
+      "effectiveTo": "2029-03-07T22:46:23.0228627Z",
+      "someUselessStuff": "useless stuff 8:6",
+      "someUsefullStuff": "usefull stuff 8:6",
+      "stuff": "some stuff 8:6"
+    },
+    "info": {
+      "twoUselessFields": "useless field 8:6",
+      "currentFrom": "2011-03-07T22:46:23.0228627Z",
+      "currentAt": "2035-03-07T22:46:23.0228627Z",
+      "type": "type field 8:6",
+      "subInfo1": "sub info1 8:6",
+      "subInfo2": "sub info2 field 8:6",
+      "subInfo3": "sub info3 field 8:6"
+    }
+  },
+  {
+    "identificatorId": 9,
+    "dataItem": {
+      "objectId": 10,
+      "effectimeFrom": "2019-03-07T22:46:23.0228648Z",
+      "effectiveTo": "2027-03-07T22:46:23.0228648Z",
+      "someUselessStuff": "useless stuff 9:4",
+      "someUsefullStuff": "usefull stuff 9:4",
+      "stuff": "some stuff 9:4"
+    },
+    "info": {
+      "twoUselessFields": "useless field 9:4",
+      "currentFrom": "2015-03-07T22:46:23.0228648Z",
+      "currentAt": "2031-03-07T22:46:23.0228648Z",
+      "type": "type field 9:4",
+      "subInfo1": "sub info1 9:4",
+      "subInfo2": "sub info2 field 9:4",
+      "subInfo3": "sub info3 field 9:4"
+    }
+  },
+  {
+    "identificatorId": 10,
+    "dataItem": {
+      "objectId": 11,
+      "effectimeFrom": "2017-03-07T22:46:23.0228667Z",
+      "effectiveTo": "2029-03-07T22:46:23.0228667Z",
+      "someUselessStuff": "useless stuff 10:6",
+      "someUsefullStuff": "usefull stuff 10:6",
+      "stuff": "some stuff 10:6"
+    },
+    "info": {
+      "twoUselessFields": "useless field 10:6",
+      "currentFrom": "2011-03-07T22:46:23.0228667Z",
+      "currentAt": "2035-03-07T22:46:23.0228667Z",
+      "type": "type field 10:6",
+      "subInfo1": "sub info1 10:6",
+      "subInfo2": "sub info2 field 10:6",
+      "subInfo3": "sub info3 field 10:6"
+    }
+  },
+  {
+    "identificatorId": 11,
+    "dataItem": {
+      "objectId": 12,
+      "effectimeFrom": "2014-03-07T22:46:23.0228687Z",
+      "effectiveTo": "2032-03-07T22:46:23.0228687Z",
+      "someUselessStuff": "useless stuff 11:9",
+      "someUsefullStuff": "usefull stuff 11:9",
+      "stuff": "some stuff 11:9"
+    },
+    "info": {
+      "twoUselessFields": "useless field 11:9",
+      "currentFrom": "2005-03-07T22:46:23.0228687Z",
+      "currentAt": "2041-03-07T22:46:23.0228687Z",
+      "type": "type field 11:9",
+      "subInfo1": "sub info1 11:9",
+      "subInfo2": "sub info2 field 11:9",
+      "subInfo3": "sub info3 field 11:9"
+    }
+  },
+  {
+    "identificatorId": 12,
+    "dataItem": {
+      "objectId": 13,
+      "effectimeFrom": "2017-03-07T22:46:23.0228708Z",
+      "effectiveTo": "2029-03-07T22:46:23.0228708Z",
+      "someUselessStuff": "useless stuff 12:6",
+      "someUsefullStuff": "usefull stuff 12:6",
+      "stuff": "some stuff 12:6"
+    },
+    "info": {
+      "twoUselessFields": "useless field 12:6",
+      "currentFrom": "2011-03-07T22:46:23.0228708Z",
+      "currentAt": "2035-03-07T22:46:23.0228708Z",
+      "type": "type field 12:6",
+      "subInfo1": "sub info1 12:6",
+      "subInfo2": "sub info2 field 12:6",
+      "subInfo3": "sub info3 field 12:6"
+    }
+  },
+  {
+    "identificatorId": 13,
+    "dataItem": {
+      "objectId": 14,
+      "effectimeFrom": "2017-03-07T22:46:23.0228727Z",
+      "effectiveTo": "2029-03-07T22:46:23.0228727Z",
+      "someUselessStuff": "useless stuff 13:6",
+      "someUsefullStuff": "usefull stuff 13:6",
+      "stuff": "some stuff 13:6"
+    },
+    "info": {
+      "twoUselessFields": "useless field 13:6",
+      "currentFrom": "2011-03-07T22:46:23.0228727Z",
+      "currentAt": "2035-03-07T22:46:23.0228727Z",
+      "type": "type field 13:6",
+      "subInfo1": "sub info1 13:6",
+      "subInfo2": "sub info2 field 13:6",
+      "subInfo3": "sub info3 field 13:6"
+    }
+  },
+  {
+    "identificatorId": 14,
+    "dataItem": {
+      "objectId": 15,
+      "effectimeFrom": "2014-03-07T22:46:23.0228745Z",
+      "effectiveTo": "2032-03-07T22:46:23.0228745Z",
+      "someUselessStuff": "useless stuff 14:9",
+      "someUsefullStuff": "usefull stuff 14:9",
+      "stuff": "some stuff 14:9"
+    },
+    "info": {
+      "twoUselessFields": "useless field 14:9",
+      "currentFrom": "2005-03-07T22:46:23.0228745Z",
+      "currentAt": "2041-03-07T22:46:23.0228745Z",
+      "type": "type field 14:9",
+      "subInfo1": "sub info1 14:9",
+      "subInfo2": "sub info2 field 14:9",
+      "subInfo3": "sub info3 field 14:9"
+    }
+  },
+  {
+    "identificatorId": 15,
+    "dataItem": {
+      "objectId": 16,
+      "effectimeFrom": "2021-03-07T22:46:23.0228821Z",
+      "effectiveTo": "2025-03-07T22:46:23.0228821Z",
+      "someUselessStuff": "useless stuff 15:2",
+      "someUsefullStuff": "usefull stuff 15:2",
+      "stuff": "some stuff 15:2"
+    },
+    "info": {
+      "twoUselessFields": "useless field 15:2",
+      "currentFrom": "2019-03-07T22:46:23.0228821Z",
+      "currentAt": "2027-03-07T22:46:23.0228821Z",
+      "type": "type field 15:2",
+      "subInfo1": "sub info1 15:2",
+      "subInfo2": "sub info2 field 15:2",
+      "subInfo3": "sub info3 field 15:2"
+    }
+  },
+  {
+    "identificatorId": 16,
+    "dataItem": {
+      "objectId": 17,
+      "effectimeFrom": "2014-03-07T22:46:23.0228844Z",
+      "effectiveTo": "2032-03-07T22:46:23.0228844Z",
+      "someUselessStuff": "useless stuff 16:9",
+      "someUsefullStuff": "usefull stuff 16:9",
+      "stuff": "some stuff 16:9"
+    },
+    "info": {
+      "twoUselessFields": "useless field 16:9",
+      "currentFrom": "2005-03-07T22:46:23.0228844Z",
+      "currentAt": "2041-03-07T22:46:23.0228844Z",
+      "type": "type field 16:9",
+      "subInfo1": "sub info1 16:9",
+      "subInfo2": "sub info2 field 16:9",
+      "subInfo3": "sub info3 field 16:9"
+    }
+  },
+  {
+    "identificatorId": 17,
+    "dataItem": {
+      "objectId": 18,
+      "effectimeFrom": "2017-03-07T22:46:23.0228866Z",
+      "effectiveTo": "2029-03-07T22:46:23.0228866Z",
+      "someUselessStuff": "useless stuff 17:6",
+      "someUsefullStuff": "usefull stuff 17:6",
+      "stuff": "some stuff 17:6"
+    },
+    "info": {
+      "twoUselessFields": "useless field 17:6",
+      "currentFrom": "2011-03-07T22:46:23.0228866Z",
+      "currentAt": "2035-03-07T22:46:23.0228866Z",
+      "type": "type field 17:6",
+      "subInfo1": "sub info1 17:6",
+      "subInfo2": "sub info2 field 17:6",
+      "subInfo3": "sub info3 field 17:6"
+    }
+  },
+  {
+    "identificatorId": 18,
+    "dataItem": {
+      "objectId": 19,
+      "effectimeFrom": "2014-03-07T22:46:23.0228885Z",
+      "effectiveTo": "2032-03-07T22:46:23.0228885Z",
+      "someUselessStuff": "useless stuff 18:9",
+      "someUsefullStuff": "usefull stuff 18:9",
+      "stuff": "some stuff 18:9"
+    },
+    "info": {
+      "twoUselessFields": "useless field 18:9",
+      "currentFrom": "2005-03-07T22:46:23.0228885Z",
+      "currentAt": "2041-03-07T22:46:23.0228885Z",
+      "type": "type field 18:9",
+      "subInfo1": "sub info1 18:9",
+      "subInfo2": "sub info2 field 18:9",
+      "subInfo3": "sub info3 field 18:9"
+    }
+  },
+  {
+    "identificatorId": 19,
+    "dataItem": {
+      "objectId": 20,
+      "effectimeFrom": "2021-03-07T22:46:23.0228903Z",
+      "effectiveTo": "2025-03-07T22:46:23.0228903Z",
+      "someUselessStuff": "useless stuff 19:2",
+      "someUsefullStuff": "usefull stuff 19:2",
+      "stuff": "some stuff 19:2"
+    },
+    "info": {
+      "twoUselessFields": "useless field 19:2",
+      "currentFrom": "2019-03-07T22:46:23.0228903Z",
+      "currentAt": "2027-03-07T22:46:23.0228903Z",
+      "type": "type field 19:2",
+      "subInfo1": "sub info1 19:2",
+      "subInfo2": "sub info2 field 19:2",
+      "subInfo3": "sub info3 field 19:2"
+    }
+  },
+  {
+    "identificatorId": 20,
+    "dataItem": {
+      "objectId": 21,
+      "effectimeFrom": "2021-03-07T22:46:23.0228924Z",
+      "effectiveTo": "2025-03-07T22:46:23.0228924Z",
+      "someUselessStuff": "useless stuff 20:2",
+      "someUsefullStuff": "usefull stuff 20:2",
+      "stuff": "some stuff 20:2"
+    },
+    "info": {
+      "twoUselessFields": "useless field 20:2",
+      "currentFrom": "2019-03-07T22:46:23.0228924Z",
+      "currentAt": "2027-03-07T22:46:23.0228924Z",
+      "type": "type field 20:2",
+      "subInfo1": "sub info1 20:2",
+      "subInfo2": "sub info2 field 20:2",
+      "subInfo3": "sub info3 field 20:2"
+    }
+  },
+  {
+    "identificatorId": 21,
+    "dataItem": {
+      "objectId": 22,
+      "effectimeFrom": "2018-03-07T22:46:23.0228941Z",
+      "effectiveTo": "2028-03-07T22:46:23.0228941Z",
+      "someUselessStuff": "useless stuff 21:5",
+      "someUsefullStuff": "usefull stuff 21:5",
+      "stuff": "some stuff 21:5"
+    },
+    "info": {
+      "twoUselessFields": "useless field 21:5",
+      "currentFrom": "2013-03-07T22:46:23.0228941Z",
+      "currentAt": "2033-03-07T22:46:23.0228941Z",
+      "type": "type field 21:5",
+      "subInfo1": "sub info1 21:5",
+      "subInfo2": "sub info2 field 21:5",
+      "subInfo3": "sub info3 field 21:5"
+    }
+  },
+  {
+    "identificatorId": 22,
+    "dataItem": {
+      "objectId": 23,
+      "effectimeFrom": "2016-03-07T22:46:23.0228959Z",
+      "effectiveTo": "2030-03-07T22:46:23.0228959Z",
+      "someUselessStuff": "useless stuff 22:7",
+      "someUsefullStuff": "usefull stuff 22:7",
+      "stuff": "some stuff 22:7"
+    },
+    "info": {
+      "twoUselessFields": "useless field 22:7",
+      "currentFrom": "2009-03-07T22:46:23.0228959Z",
+      "currentAt": "2037-03-07T22:46:23.0228959Z",
+      "type": "type field 22:7",
+      "subInfo1": "sub info1 22:7",
+      "subInfo2": "sub info2 field 22:7",
+      "subInfo3": "sub info3 field 22:7"
+    }
+  },
+  {
+    "identificatorId": 23,
+    "dataItem": {
+      "objectId": 24,
+      "effectimeFrom": "2018-03-07T22:46:23.0228977Z",
+      "effectiveTo": "2028-03-07T22:46:23.0228977Z",
+      "someUselessStuff": "useless stuff 23:5",
+      "someUsefullStuff": "usefull stuff 23:5",
+      "stuff": "some stuff 23:5"
+    },
+    "info": {
+      "twoUselessFields": "useless field 23:5",
+      "currentFrom": "2013-03-07T22:46:23.0228977Z",
+      "currentAt": "2033-03-07T22:46:23.0228977Z",
+      "type": "type field 23:5",
+      "subInfo1": "sub info1 23:5",
+      "subInfo2": "sub info2 field 23:5",
+      "subInfo3": "sub info3 field 23:5"
+    }
+  },
+  {
+    "identificatorId": 24,
+    "dataItem": {
+      "objectId": 25,
+      "effectimeFrom": "2020-03-07T22:46:23.0229Z",
+      "effectiveTo": "2026-03-07T22:46:23.0229Z",
+      "someUselessStuff": "useless stuff 24:3",
+      "someUsefullStuff": "usefull stuff 24:3",
+      "stuff": "some stuff 24:3"
+    },
+    "info": {
+      "twoUselessFields": "useless field 24:3",
+      "currentFrom": "2017-03-07T22:46:23.0229Z",
+      "currentAt": "2029-03-07T22:46:23.0229Z",
+      "type": "type field 24:3",
+      "subInfo1": "sub info1 24:3",
+      "subInfo2": "sub info2 field 24:3",
+      "subInfo3": "sub info3 field 24:3"
+    }
+  },
+  {
+    "identificatorId": 25,
+    "dataItem": {
+      "objectId": 26,
+      "effectimeFrom": "2018-03-07T22:46:23.0229018Z",
+      "effectiveTo": "2028-03-07T22:46:23.0229018Z",
+      "someUselessStuff": "useless stuff 25:5",
+      "someUsefullStuff": "usefull stuff 25:5",
+      "stuff": "some stuff 25:5"
+    },
+    "info": {
+      "twoUselessFields": "useless field 25:5",
+      "currentFrom": "2013-03-07T22:46:23.0229018Z",
+      "currentAt": "2033-03-07T22:46:23.0229018Z",
+      "type": "type field 25:5",
+      "subInfo1": "sub info1 25:5",
+      "subInfo2": "sub info2 field 25:5",
+      "subInfo3": "sub info3 field 25:5"
+    }
+  },
+  {
+    "identificatorId": 26,
+    "dataItem": {
+      "objectId": 27,
+      "effectimeFrom": "2018-03-07T22:46:23.0229098Z",
+      "effectiveTo": "2028-03-07T22:46:23.0229098Z",
+      "someUselessStuff": "useless stuff 26:5",
+      "someUsefullStuff": "usefull stuff 26:5",
+      "stuff": "some stuff 26:5"
+    },
+    "info": {
+      "twoUselessFields": "useless field 26:5",
+      "currentFrom": "2013-03-07T22:46:23.0229098Z",
+      "currentAt": "2033-03-07T22:46:23.0229098Z",
+      "type": "type field 26:5",
+      "subInfo1": "sub info1 26:5",
+      "subInfo2": "sub info2 field 26:5",
+      "subInfo3": "sub info3 field 26:5"
+    }
+  },
+  {
+    "identificatorId": 27,
+    "dataItem": {
+      "objectId": 28,
+      "effectimeFrom": "2018-03-07T22:46:23.0229116Z",
+      "effectiveTo": "2028-03-07T22:46:23.0229116Z",
+      "someUselessStuff": "useless stuff 27:5",
+      "someUsefullStuff": "usefull stuff 27:5",
+      "stuff": "some stuff 27:5"
+    },
+    "info": {
+      "twoUselessFields": "useless field 27:5",
+      "currentFrom": "2013-03-07T22:46:23.0229116Z",
+      "currentAt": "2033-03-07T22:46:23.0229116Z",
+      "type": "type field 27:5",
+      "subInfo1": "sub info1 27:5",
+      "subInfo2": "sub info2 field 27:5",
+      "subInfo3": "sub info3 field 27:5"
+    }
+  },
+  {
+    "identificatorId": 28,
+    "dataItem": {
+      "objectId": 29,
+      "effectimeFrom": "2014-03-07T22:46:23.0229138Z",
+      "effectiveTo": "2032-03-07T22:46:23.0229138Z",
+      "someUselessStuff": "useless stuff 28:9",
+      "someUsefullStuff": "usefull stuff 28:9",
+      "stuff": "some stuff 28:9"
+    },
+    "info": {
+      "twoUselessFields": "useless field 28:9",
+      "currentFrom": "2005-03-07T22:46:23.0229138Z",
+      "currentAt": "2041-03-07T22:46:23.0229138Z",
+      "type": "type field 28:9",
+      "subInfo1": "sub info1 28:9",
+      "subInfo2": "sub info2 field 28:9",
+      "subInfo3": "sub info3 field 28:9"
+    }
+  },
+  {
+    "identificatorId": 29,
+    "dataItem": {
+      "objectId": 30,
+      "effectimeFrom": "2022-03-07T22:46:23.0229157Z",
+      "effectiveTo": "2024-03-07T22:46:23.0229157Z",
+      "someUselessStuff": "useless stuff 29:1",
+      "someUsefullStuff": "usefull stuff 29:1",
+      "stuff": "some stuff 29:1"
+    },
+    "info": {
+      "twoUselessFields": "useless field 29:1",
+      "currentFrom": "2021-03-07T22:46:23.0229157Z",
+      "currentAt": "2025-03-07T22:46:23.0229157Z",
+      "type": "type field 29:1",
+      "subInfo1": "sub info1 29:1",
+      "subInfo2": "sub info2 field 29:1",
+      "subInfo3": "sub info3 field 29:1"
+    }
+  }
+]

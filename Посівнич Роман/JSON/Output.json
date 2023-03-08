@@ -1,0 +1,142 @@
+[
+  {
+    "identificatorId": 3,
+    "effectimeFrom": "2016-03-07T22:46:23.0228368Z",
+    "effectiveTo": "2030-03-07T22:46:23.0228368Z",
+    "type": "type field 3:7",
+    "subInfo1": "sub info1 3:7"
+  },
+  {
+    "identificatorId": 4,
+    "effectimeFrom": "2018-03-07T22:46:23.0228539Z",
+    "effectiveTo": "2028-03-07T22:46:23.0228539Z",
+    "type": "type field 4:5",
+    "subInfo1": "sub info1 4:5"
+  },
+  {
+    "identificatorId": 6,
+    "effectimeFrom": "2014-03-07T22:46:23.0228586Z",
+    "effectiveTo": "2032-03-07T22:46:23.0228586Z",
+    "type": "type field 6:9",
+    "subInfo1": "sub info1 6:9"
+  },
+  {
+    "identificatorId": 7,
+    "effectimeFrom": "2016-03-07T22:46:23.0228604Z",
+    "effectiveTo": "2030-03-07T22:46:23.0228604Z",
+    "type": "type field 7:7",
+    "subInfo1": "sub info1 7:7"
+  },
+  {
+    "identificatorId": 8,
+    "effectimeFrom": "2017-03-07T22:46:23.0228627Z",
+    "effectiveTo": "2029-03-07T22:46:23.0228627Z",
+    "type": "type field 8:6",
+    "subInfo1": "sub info1 8:6"
+  },
+  {
+    "identificatorId": 10,
+    "effectimeFrom": "2017-03-07T22:46:23.0228667Z",
+    "effectiveTo": "2029-03-07T22:46:23.0228667Z",
+    "type": "type field 10:6",
+    "subInfo1": "sub info1 10:6"
+  },
+  {
+    "identificatorId": 11,
+    "effectimeFrom": "2014-03-07T22:46:23.0228687Z",
+    "effectiveTo": "2032-03-07T22:46:23.0228687Z",
+    "type": "type field 11:9",
+    "subInfo1": "sub info1 11:9"
+  },
+  {
+    "identificatorId": 12,
+    "effectimeFrom": "2017-03-07T22:46:23.0228708Z",
+    "effectiveTo": "2029-03-07T22:46:23.0228708Z",
+    "type": "type field 12:6",
+    "subInfo1": "sub info1 12:6"
+  },
+  {
+    "identificatorId": 13,
+    "effectimeFrom": "2017-03-07T22:46:23.0228727Z",
+    "effectiveTo": "2029-03-07T22:46:23.0228727Z",
+    "type": "type field 13:6",
+    "subInfo1": "sub info1 13:6"
+  },
+  {
+    "identificatorId": 14,
+    "effectimeFrom": "2014-03-07T22:46:23.0228745Z",
+    "effectiveTo": "2032-03-07T22:46:23.0228745Z",
+    "type": "type field 14:9",
+    "subInfo1": "sub info1 14:9"
+  },
+  {
+    "identificatorId": 16,
+    "effectimeFrom": "2014-03-07T22:46:23.0228844Z",
+    "effectiveTo": "2032-03-07T22:46:23.0228844Z",
+    "type": "type field 16:9",
+    "subInfo1": "sub info1 16:9"
+  },
+  {
+    "identificatorId": 17,
+    "effectimeFrom": "2017-03-07T22:46:23.0228866Z",
+    "effectiveTo": "2029-03-07T22:46:23.0228866Z",
+    "type": "type field 17:6",
+    "subInfo1": "sub info1 17:6"
+  },
+  {
+    "identificatorId": 18,
+    "effectimeFrom": "2014-03-07T22:46:23.0228885Z",
+    "effectiveTo": "2032-03-07T22:46:23.0228885Z",
+    "type": "type field 18:9",
+    "subInfo1": "sub info1 18:9"
+  },
+  {
+    "identificatorId": 21,
+    "effectimeFrom": "2018-03-07T22:46:23.0228941Z",
+    "effectiveTo": "2028-03-07T22:46:23.0228941Z",
+    "type": "type field 21:5",
+    "subInfo1": "sub info1 21:5"
+  },
+  {
+    "identificatorId": 22,
+    "effectimeFrom": "2016-03-07T22:46:23.0228959Z",
+    "effectiveTo": "2030-03-07T22:46:23.0228959Z",
+    "type": "type field 22:7",
+    "subInfo1": "sub info1 22:7"
+  },
+  {
+    "identificatorId": 23,
+    "effectimeFrom": "2018-03-07T22:46:23.0228977Z",
+    "effectiveTo": "2028-03-07T22:46:23.0228977Z",
+    "type": "type field 23:5",
+    "subInfo1": "sub info1 23:5"
+  },
+  {
+    "identificatorId": 25,
+    "effectimeFrom": "2018-03-07T22:46:23.0229018Z",
+    "effectiveTo": "2028-03-07T22:46:23.0229018Z",
+    "type": "type field 25:5",
+    "subInfo1": "sub info1 25:5"
+  },
+  {
+    "identificatorId": 26,
+    "effectimeFrom": "2018-03-07T22:46:23.0229098Z",
+    "effectiveTo": "2028-03-07T22:46:23.0229098Z",
+    "type": "type field 26:5",
+    "subInfo1": "sub info1 26:5"
+  },
+  {
+    "identificatorId": 27,
+    "effectimeFrom": "2018-03-07T22:46:23.0229116Z",
+    "effectiveTo": "2028-03-07T22:46:23.0229116Z",
+    "type": "type field 27:5",
+    "subInfo1": "sub info1 27:5"
+  },
+  {
+    "identificatorId": 28,
+    "effectimeFrom": "2014-03-07T22:46:23.0229138Z",
+    "effectiveTo": "2032-03-07T22:46:23.0229138Z",
+    "type": "type field 28:9",
+    "subInfo1": "sub info1 28:9"
+  }
+]
