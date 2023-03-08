@@ -1,0 +1,172 @@
+﻿[
+  {
+    "identificatorId": 11111111,
+    "dataItem": {
+      "objectId": 1111111111,
+      "effectimeFrom": "2018-11-07T00:25:00.073876Z",
+      "effectiveTo": "2019-12-07T00:25:00.073876Z",
+      "name": "firstObject"
+    },
+    "info": {
+      "currentAt": "some_date_in_string",
+      "CurrentFrom": "some_date_in_string",
+      "type": "audio",
+      "color": "red",
+      "heigth": "100px",
+      "size": "100mb"
+    }
+  },
+  {
+    "identificatorId": 22222222,
+    "dataItem": {
+      "objectId": 2222222222,
+      "effectimeFrom": "2020-09-07T00:20:00.073876Z",
+      "effectiveTo": "2023-12-07T00:20:00.073876Z",
+      "name": "secondObject"
+    },
+    "info": {
+      "currentAt": "some_date_in_string",
+      "CurrentFrom": "some_date_in_string",
+      "type": "image",
+      "color": "blue",
+      "heigth": "200px",
+      "size": "100kb"
+    }
+  },
+  {
+    "identificatorId": 33333333,
+    "dataItem": {
+      "objectId": 3333333333,
+      "effectimeFrom": "2015-07-07T00:20:00.073876Z",
+      "effectiveTo": "2020-10-07T00:20:00.073876Z",
+      "name": "thirdObject"
+    },
+    "info": {
+      "currentAt": "some_date_in_string",
+      "CurrentFrom": "some_date_in_string",
+      "type": "image",
+      "color": "green",
+      "heigth": "100px",
+      "size": "150mb"
+    }
+  },
+  {
+    "identificatorId": 44444444,
+    "dataItem": {
+      "objectId": 4444444444,
+      "effectimeFrom": "2013-11-07T00:15:00.073876Z",
+      "effectiveTo": "2029-12-07T00:15:00.073876Z",
+      "name": "fourthObject"
+    },
+    "info": {
+      "currentAt": "2013-11-07T00:15:00.073876Z",
+      "CurrentFrom": "2029-12-07T00:15:00.073876Z",
+      "type": "image",
+      "color": "red",
+      "heigth": "100px",
+      "size": "100mb"
+    }
+  },
+  {
+    "identificatorId": 55555555,
+    "dataItem": {
+      "objectId": 5555555555,
+      "effectimeFrom": "2010-09-07T00:20:00.073876Z",
+      "effectiveTo": "2023-12-07T00:20:00.073876Z",
+      "name": "fifthObject"
+    },
+    "info": {
+      "currentAt": "2013-12-07T00:20:00.073876Z",
+      "CurrentFrom": "2023-12-07T00:20:00.073876Z",
+      "type": "image",
+      "color": "blue",
+      "heigth": "200px",
+      "size": "100kb"
+    }
+  },
+  {
+    "identificatorId": 66666666,
+    "dataItem": {
+      "objectId": 66666666666,
+      "effectimeFrom": "2016-07-07T00:20:00.073876Z",
+      "effectiveTo": "2017-10-07T00:20:00.073876Z",
+      "name": "sixthObject"
+    },
+    "info": {
+      "currentAt": "2016-10-07T00:20:00.073876Z",
+      "CurrentFrom": "2017-10-07T00:20:00.073876Z",
+      "type": "image",
+      "color": "red",
+      "heigth": "200px",
+      "size": "150mb"
+    }
+  },
+  {
+    "identificatorId": 77777777,
+    "dataItem": {
+      "objectId": 7777777777,
+      "effectimeFrom": "2018-11-07T00:25:00.073876Z",
+      "effectiveTo": "2019-12-07T00:25:00.073876Z",
+      "name": "seventhObject"
+    },
+    "info": {
+      "currentAt": "some_date_in_string",
+      "CurrentFrom": "some_date_in_string",
+      "type": "audio",
+      "color": "red",
+      "heigth": "100px",
+      "size": "100mb"
+    }
+  },
+  {
+    "identificatorId": 88888888,
+    "dataItem": {
+      "objectId": 8888888888,
+      "effectimeFrom": "2012-09-07T00:20:00.073876Z",
+      "effectiveTo": "2014-12-07T00:20:00.073876Z",
+      "name": "eigththObject"
+    },
+    "info": {
+      "currentAt": "some_date_in_string",
+      "CurrentFrom": "some_date_in_string",
+      "type": "image",
+      "color": "blue",
+      "heigth": "200px",
+      "size": "100kb"
+    }
+  },
+  {
+    "identificatorId": 99999999,
+    "dataItem": {
+      "objectId": 9999999999,
+      "effectimeFrom": "2016-07-07T00:20:00.073876Z",
+      "effectiveTo": "2021-10-07T00:20:00.073876Z",
+      "name": "ninethObject"
+    },
+    "info": {
+      "currentAt": "2015-07-07T00:20:00.073876Z",
+      "CurrentFrom": "2020-10-07T00:20:00.073876Z",
+      "type": "video",
+      "color": "green",
+      "heigth": "10px",
+      "size": "50mb"
+    }
+  },
+  {
+    "identificatorId": 10101010,
+    "dataItem": {
+      "objectId": 1010101010,
+      "effectimeFrom": "2016-07-07T00:20:00.073876Z",
+      "effectiveTo": "2021-10-07T00:20:00.073876Z",
+      "name": "ninethObject"
+    },
+    "info": {
+      "currentAt": "2015-07-07T00:20:00.073876Z",
+      "CurrentFrom": "2020-10-07T00:20:00.073876Z",
+      "type": "video",
+      "color": "green",
+      "heigth": "10px",
+      "size": "50mb"
+    }
+  }
+]
