@@ -1,0 +1,203 @@
+﻿[
+  {
+    "identificatorId": "00000001",
+    "dataItem": {
+      "objectId": "0205000001",
+      "effectiveFrom": "2018-11-07T00:25:00.073876Z",
+      "effectiveTo": "2020-11-07T00:25:00.073876Z",
+      "foodOrNoFood": "Food",
+      "kind":"goods"
+    },
+    "info": {
+      "category": "A",
+      "size":"S",
+      "currentAt": "2018-11-07T00:25:00.073876Z",
+      "CurrentFrom": "2018-11-07T00:25:00.073876Z",
+      "type": "product",
+      "color" : "green",
+      "location":"Canada",
+      "tag": "#001"
+      
+    }
+  },
+  {
+    "identificatorId": "00000002",
+    "dataItem": {
+      "objectId": "0102500002",
+      "effectiveFrom": "2020-12-07T12:25:00.073876Z",
+      "effectiveTo": "2024-05-10T00:25:00.073876Z",
+      "foodOrNoFood": "noFood",
+      "kind":"electronics"
+    },
+    "info": {
+      "category": "S+",
+      "size":"XL",
+      "currentAt": "2020-12-07T12:25:00.073876Z",
+      "CurrentFrom": "2024-05-10T00:25:00.073876Z",
+      "type": "electronics",
+      "color" : "gray",
+      "location":"England",
+      "tag": "#002"
+    }
+  },
+    {
+    "identificatorId": "00000003",
+    "dataItem": {
+      "objectId": "0401300003",
+      "effectiveFrom": "2022-12-07T15:35:00.073876Z",
+      "effectiveTo": "2027-05-10T08:25:00.073876Z",
+      "foodOrNoFood": "noFood",
+      "kind":"electronics"
+    },
+    "info": {
+      "category": "C",
+      "size":"XXL",
+      "currentAt": "2022-12-07T15:35:00.073876Z",
+      "CurrentFrom": "2027-05-10T08:25:00.073876Z",
+      "type": "clothes",
+      "color" : "red",
+      "location":"Turkey",
+      "tag": "#003"
+    }
+  }, 
+    {
+    "identificatorId": "00000004",
+    "dataItem": {
+      "objectId": "0984500404",
+      "effectiveFrom": "2016-12-07T05:09:00.073876Z",
+      "effectiveTo": "2019-12-16T08:26:50.073876Z",
+      "foodOrNoFood": "Food",
+      "kind":"goods"
+    },
+    "info": {
+      "category": "C",
+      "size":"XXL",
+      "currentAt": "2016-12-07T05:09:00.073876Z",
+      "CurrentFrom": "2019-12-16T08:26:50.073876Z",
+      "type": "product",
+      "color" : "red",
+      "location":"Ukraine",
+      "tag": "#004"
+    }
+  },
+  {
+    "identificatorId": "00000005",
+    "dataItem": {
+      "objectId": "0164800005",
+      "effectiveFrom": "2015-12-07T05:23:00.073876Z",
+      "effectiveTo": "2018-12-30T10:45:50.073876Z",
+      "foodOrNoFood": "Food",
+      "kind":"goods"
+    },
+    "info": {
+      "category": "M-",
+      "size":"S",
+      "currentAt": "2016-12-07T05:09:00.073876Z",
+      "CurrentFrom": "2019-12-16T08:26:50.073876Z",
+      "type": "device",
+      "color" : "blue",
+      "location":"Finland",
+      "tag": "#005"
+    }
+   },
+    {
+    "identificatorId": "00000006",
+    "dataItem": {
+      "objectId": "0074205006",
+      "effectiveFrom": "2030-05-02T00:00:00.073876Z",
+      "effectiveTo": "2040-09-17T00:45:50.073876Z",
+      "foodOrNoFood": "NoFood",
+      "kind":"instrument"
+    },
+    "info": {
+      "category": "A++",
+      "size":"L",
+      "currentAt": "2030-05-02T00:00:00.073876Z",
+      "CurrentFrom": "2040-09-17T00:45:50.073876Z",
+      "type": "instrument",
+      "color" : "black",
+      "location":"Scotland",
+      "tag": "#006"
+     }
+    },
+   {
+    "identificatorId": "00000007",
+    "dataItem": {
+      "objectId": "0500355007",
+      "effectiveFrom": "2014-10-08T12:00:00.073876Z",
+      "effectiveTo": "2021-08-11T00:12:30.073876Z",
+      "foodOrNoFood": "NoFood",
+      "kind":"device"
+    },
+    "info": {
+      "category": "SS+",
+      "size":"X",
+      "currentAt": "2014-10-08T12:00:00.073876Z",
+      "CurrentFrom": "2021-08-11T00:12:30.073876Z",
+      "type": "device",
+      "color" : "Pink",
+      "location":"USA",
+      "tag": "#007"
+    }
+   },
+   {
+    "identificatorId": "00000008",
+    "dataItem": {
+      "objectId": "1906005008",
+      "effectiveFrom": "2020-11-08T02:06:00.073876Z",
+      "effectiveTo": "2023-04-11T05:12:30.073876Z",
+      "foodOrNoFood": "Food",
+      "kind":"goods"
+    },
+    "info": {
+      "category": "B-",
+      "size":"XLLLL",
+      "currentAt": "2020-11-08T02:06:00.073876Z",
+      "CurrentFrom": "2023-04-11T05:12:30.073876Z",
+      "type": "product",
+      "color" : "Orange",
+      "location":"Afrika",
+      "tag": "#008"
+    }
+   },
+   {
+    "identificatorId": "00000009",
+    "dataItem": {
+      "objectId": "0207008909",
+      "effectiveFrom": "2015-03-02T02:06:00.073876Z",
+      "effectiveTo": "2018-12-01T05:12:30.073876Z",
+      "foodOrNoFood": "NoFood",
+      "kind":"electronics"
+    },
+    "info": {
+      "category": "S+",
+      "size":"L",
+      "currentAt": "2015-03-02T02:06:00.073876Z",
+      "CurrentFrom": "2018-12-01T05:12:30.073876Z",
+      "type": "electoronics",
+      "color" : "white",
+      "location":"Australia",
+      "tag": "#009"
+    }
+   },
+     {
+    "identificatorId": "00000010",
+    "dataItem": {
+      "objectId": "0755010010",
+      "effectiveFrom": "2000-03-09T02:06:00.073876Z",
+      "effectiveTo": "2006-02-03T05:12:30.073876Z",
+      "foodOrNoFood": "Food",
+      "kind":"goods"
+    },
+    "info": {
+      "category": "C",
+      "size":"M+",
+      "currentAt": "2000-03-09T02:06:00.073876Z",
+      "CurrentFrom": "2006-02-03T05:12:30.073876Z",
+      "type": "product",
+      "color" : "green",
+      "location":"Ashabat",
+      "tag": "#010"
+    }
+   }
+]
