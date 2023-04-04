@@ -1,0 +1,148 @@
+﻿[
+  {
+    "identificatorId": "03568965",
+ 
+      "objectId": "4567894563",
+      "effectimeFrom": "2017-03-07T00:25:00.073876Z",
+      "effectiveTo": "2020-03-07T00:25:00.073876Z",
+      "some useless stuff one": "stuff one",
+      "some useless stuff two": "stuff two",
+      "some useless stuff three": "stuff three",
+
+      "twoUselessFielsd": "First object",
+      "currentAt": "2006-03-07T00:25:00.073876Z",
+      "CurrentFrom": "2018-03-07T00:25:00.073876Z",
+      "type": "some_ string"
+  },
+
+  {
+    "identificatorId": "456986555",
+
+    "objectId": "4567896542",
+    "effectimeFrom": "2013-03-07T00:25:00.073876Z",
+    "effectiveTo": "2019-09-07T00:25:00.073876Z",
+    "some useless stuff one": "stuff one",
+    "some useless stuff two": "stuff two",
+    "some useless stuff three": "stuff three",
+
+    "twoUselessFielsd": "Second object",
+    "currentAt": "2002-03-07T00:25:00.073876Z",
+    "CurrentFrom": "2013-03-07T00:25:00.073876Z",
+    "type": "some_ string"
+  },
+
+  {
+    "identificatorId": "45689235",
+
+    "objectId": "9687546589",
+    "effectimeFrom": "2011-03-07T00:25:00.073876Z",
+    "effectiveTo": "2016-09-07T00:25:00.073876Z",
+    "some useless stuff one": "stuff one",
+    "some useless stuff two": "stuff two",
+    "some useless stuff three": "stuff three",
+
+    "twoUselessFielsd": "Third object",
+    "currentAt": "2002-03-07T00:25:00.073876Z",
+    "CurrentFrom": "2013-03-07T00:25:00.073876Z",
+    "type": "some_ string"
+  },
+
+  {
+    "identificatorId": "78549658",
+
+    "objectId": "3540001205",
+    "effectimeFrom": "2010-08-07T00:25:00.073876Z",
+    "effectiveTo": "2023-01-07T00:25:00.073876Z",
+    "some useless stuff one": "stuff one",
+    "some useless stuff two": "stuff two",
+    "some useless stuff three": "stuff three",
+
+    "twoUselessFielsd": "Fourth object",
+    "currentAt": "2006-03-07T00:25:00.073876Z",
+    "CurrentFrom": "2018-03-07T00:25:00.073876Z",
+    "type": "some_ string"
+  },
+
+  {
+    "identificatorId": "78965415",
+
+    "objectId": "5858965785",
+    "effectimeFrom": "2006-08-07T00:25:00.073876Z",
+    "effectiveTo": "2011-03-07T00:25:00.073876Z",
+    "some useless stuff one": "stuff one",
+    "some useless stuff two": "stuff two",
+    "some useless stuff three": "stuff three",
+
+    "twoUselessFielsd": "Fifth object",
+    "currentAt": "2006-03-07T00:25:00.073876Z",
+    "CurrentFrom": "2018-03-07T00:25:00.073876Z",
+    "type": "some_ string"
+  },
+
+  {
+    "identificatorId": "78545685",
+
+    "objectId": "8978564256",
+    "effectimeFrom": "2000-08-07T00:25:00.073876Z",
+    "effectiveTo": "2009-04-07T00:25:00.073876Z",
+    "some useless stuff one": "stuff one",
+    "some useless stuff two": "stuff two",
+    "some useless stuff three": "stuff three",
+
+    "twoUselessFielsd": "Six object",
+    "currentAt": "2006-03-07T00:25:00.073876Z",
+    "CurrentFrom": "2018-03-07T00:25:00.073876Z",
+    "type": "some_ string"
+
+  },
+
+  {
+    "identificatorId": "75645859",
+
+      "objectId": "7537533578",
+      "effectimeFrom": "2013-05-07T00:25:00.073876Z",
+      "effectiveTo": "2021-11-07T00:25:00.073876Z",
+      "some useless stuff one": "stuff one",
+      "some useless stuff two": "stuff two",
+      "some useless stuff three": "stuff three",
+
+      "twoUselessFielsd": "Seventh object",
+      "currentAt": "2006-03-07T00:25:00.073876Z",
+      "CurrentFrom": "2018-03-07T00:25:00.073876Z",
+      "type": "some_ string"
+  },
+
+  {
+    "identificatorId": "78965410",
+
+      "objectId": "3219517530",
+      "effectimeFrom": "2011-07-07T00:25:00.073876Z",
+      "effectiveTo": "2021-12-07T00:25:00.073876Z",
+      "some useless stuff one": "stuff one",
+      "some useless stuff two": "stuff two",
+      "some useless stuff three": "stuff three",
+
+      "twoUselessFielsd": "Eight object",
+      "currentAt": "2006-03-07T00:25:00.073876Z",
+      "CurrentFrom": "2018-03-07T00:25:00.073876Z",
+      "type": "some_ string"
+
+  },
+
+  {
+    "identificatorId": "45698773",
+
+    "objectId": "3577539515",
+    "effectimeFrom": "2008-10-07T00:25:00.073876Z",
+    "effectiveTo": "2009-05-07T00:25:00.073876Z",
+    "some useless stuff one": "stuff one",
+    "some useless stuff two": "stuff two",
+    "some useless stuff three": "stuff three",
+
+    "twoUselessFielsd": "Tenth object",
+    "currentAt": "2006-03-07T00:25:00.073876Z",
+    "CurrentFrom": "2018-03-07T00:25:00.073876Z",
+    "type": "some_ string",
+
+  }
+]
