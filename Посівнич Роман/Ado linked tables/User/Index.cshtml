@@ -1,0 +1,23 @@
+﻿@using MVCUser.Models
+@model IEnumerable<UserModel>
+
+<h2>Users</h2>
+<table class="table">
+    <tr>
+        <td>User Id</td>
+        <td>Name</td>
+        <td>Age</td>
+        <td>Home City</td>
+        <td>Pet Name</td>
+    </tr>
+    @foreach (var p in Model)
+    {
+        <tr>
+            <td>@p.UserId</td>
+            <td>@p.Name</td>
+            <td>@p.Age</td>
+            <td>@p.HomeCity</td>
+            <td>@p.UserPetName</td>
+        </tr>
+    }
+</table>
