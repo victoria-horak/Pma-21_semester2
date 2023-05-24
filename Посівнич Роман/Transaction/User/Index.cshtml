@@ -1,0 +1,21 @@
+﻿@using Transaction.Models
+@model IEnumerable<PersonModel>
+
+<h2>Users</h2>
+<table class="table">
+    <tr>
+        <td>Person Id</td>
+        <td>Name</td>
+        <td>Surname</td>
+        <td>Money</td>
+    </tr>
+    @foreach (var p in Model)
+    {
+        <tr>
+            <td>@p.Id</td>
+            <td>@p.Name</td>
+            <td>@p.Surname</td>
+            <td>@p.Money</td>
+        </tr>
+    }
+</table>
